@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+<rect width="900" height="1100" fill="#eaecf0"/>
+<rect x="40" y="40" width="820" height="1020" fill="#f8f9fa" stroke="#a2a9b1" stroke-width="4"/>
+<text x="450" y="500" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="42" fill="#54595d">Client-provided Papon portrait</text>
+<text x="450" y="560" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="32" fill="#72777d">Photographer: Chayan Das</text>
+<text x="450" y="620" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#72777d">Replace this file with the original JPG before publishing.</text>
+</svg>
